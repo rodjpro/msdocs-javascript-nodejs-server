@@ -1,0 +1,4 @@
+{
+	"appService.defaultWebAppToDeploy": "/subscriptions/eb8fca37-8b1b-44af-9ee3-60d8001feb8c/AppServices/subscriptions/eb8fca37-8b1b-44af-9ee3-60d8001feb8c/resourceGroups/rg-sccs-Project_Forest-dev-westus-001/providers/Microsoft.Web/sites/rodj2",
+	"appService.deploySubpath": "2-Deploy-basic-app-to-azure"
+}

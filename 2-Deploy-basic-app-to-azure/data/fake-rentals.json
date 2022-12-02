@@ -1,6 +1,6 @@
 [
     {
-      "name": "Georgian Court",
+      "name": "Debbie Georgian Court",
       "description": "lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quaerat.",
       "image": "https://picsum.photos/200",
       "price": "1000000",
@@ -10,7 +10,7 @@
       "link": "http://www.example.com"
     },
     {
-      "name": "Brittany Court",
+      "name": "Alice Brittany Court",
       "description": "lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quaerat.",
       "image": "https://picsum.photos/200",
       "price": "3000000",
@@ -20,7 +20,7 @@
       "link": "http://www.example.com"
     },
     {
-      "name": "Baz Homes",
+      "name": "Christine Baz Homes",
       "description": "lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quaerat.",
       "image": "https://picsum.photos/200",
       "price": "9000000",
@@ -30,7 +30,7 @@
       "link": "http://www.example.com"
     },
     {
-      "name": "Bar Homes",
+      "name": "Leslie Bar Homes",
       "description": "lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quaerat.",
       "image": "https://picsum.photos/200",
       "price": "4000000",
